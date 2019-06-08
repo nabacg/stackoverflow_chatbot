@@ -92,7 +92,6 @@ def main():
     # Bot name: gmc_aml_mk1
     # Bot username: gmc_aml_mk1_bot
     # URL: tg://resolve?domain=gmc_aml_mk1_bot
-    # API code:  880450681:AAEwubfoXjaC-_7wal8928zHMq6DuQkLH7c
 
     print("Ready to talk!")
     offset = 0

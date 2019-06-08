@@ -1,1 +1,1 @@
-python main_bot.py --token=880450681:AAEwubfoXjaC-_7wal8928zHMq6DuQkLH7c
+python main_bot.py --token=INSERT_TOKEN_HERE
